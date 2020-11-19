@@ -1,0 +1,1 @@
+Ctrl + Shift + I = uporządkowanie kodu
